@@ -1,0 +1,27 @@
+{
+  "name": "test-automated-publish-packge",
+  "version": "1.0.0",
+  "description": "Auto publish the packge using github-actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Welcome: Your test was passed, now you can publish this demo packge\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahul3v/test-automated-publish-packge.git"
+  },
+  "keywords": [
+    "test",
+    "demo",
+    "github-action",
+    "automation",
+    "publish",
+    "auto-publish"
+  ],
+  "author": "@rahul3v",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rahul3v/test-automated-publish-packge/issues"
+  },
+  "homepage": "https://github.com/rahul3v/test-automated-publish-packge#readme"
+}
