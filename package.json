@@ -1,6 +1,6 @@
 {
   "name": "test-automated-publish-packge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Auto publish the packge using github-actions",
   "main": "index.js",
   "scripts": {
